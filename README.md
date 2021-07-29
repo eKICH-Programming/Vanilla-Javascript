@@ -8,3 +8,7 @@ The third method is using <script src=""> and linking an external javascript fil
 # Javascript Data Types
 JavaScript Data Types and How to Declare variables using var, let, and const keywords. 
 We are also looking at how to write JavaScript comments and using the typeof operator to get the type of our variables.
+
+ # Javascript String Properties and Methods
+ In these files you will find main.js file that holds the length property, replace() method, toUpperCase() Method, 
+ toLowerCase() Method, and the Concat() method.
