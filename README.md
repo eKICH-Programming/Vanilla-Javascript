@@ -14,6 +14,6 @@ We are also looking at how to write JavaScript comments and using the typeof ope
  In these files you will find main.js file that holds the length property, replace() method, toUpperCase() Method, 
  toLowerCase() Method, and the Concat() method.
 
- #JavaScript Object
+ # JavaScript Object
  In these file we are looking at JavaScript objects. Creating JavaScript objects through object literals, creating empty object, 
  Accessing object properties, Adding new property, and deleting object properties.
