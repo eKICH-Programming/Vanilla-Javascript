@@ -15,5 +15,8 @@ We are also looking at how to write JavaScript comments and using the typeof ope
  toLowerCase() Method, and the Concat() method.
 
  # JavaScript Object
- In these file we are looking at JavaScript objects. Creating JavaScript objects through object literals, creating empty object, 
+ In these files we are looking at JavaScript objects. Creating JavaScript objects through object literals, creating empty object, 
  Accessing object properties, Adding new property, and deleting object properties.
+ 
+# JavaScript Object Methods
+We are looking at how to create Object Method, Accessing Object Method and adding a method to an object.
