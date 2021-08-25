@@ -22,6 +22,6 @@ We are also looking at how to write JavaScript comments and using the typeof ope
 We are looking at how to create Object Method, Accessing Object Method and adding a method to an object.
 
 # JavaScript Object Constructor Functions and JavaScript Prototype Property
-Creating JavaScript object constructor function, creatig objects of the same type by calling the constructor function using the new keyword, 
+Creating JavaScript object constructor function, creating objects of the same type by calling the constructor function using the new keyword, 
 adding new properties to an object constructor function, adding methods to constructor functions, using prototype property to add new properties 
 and methods to constructor functions.
