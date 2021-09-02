@@ -25,3 +25,7 @@ We are looking at how to create Object Method, Accessing Object Method and addin
 Creating JavaScript object constructor function, creating objects of the same type by calling the constructor function using the new keyword, 
 adding new properties to an object constructor function, adding methods to constructor functions, using prototype property to add new properties 
 and methods to constructor functions.
+
+ # JavaScript Arrays
+ Creating JavaScript Arrays using Array literals and new keyword. accessing arrays elements, changing an array element, accessing the first array element,
+ accessing the last array element and adding new array elements.
