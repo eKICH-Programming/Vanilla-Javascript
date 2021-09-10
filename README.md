@@ -29,3 +29,6 @@ and methods to constructor functions.
  # JavaScript Arrays
  Creating JavaScript Arrays using Array literals and new keyword. accessing arrays elements, changing an array element, accessing the first array element,
  accessing the last array element and adding new array elements.
+
+ # JavaScript Array Methods
+ How to use JavaScript array methods on an array. toString(), join(), pop(), push(), shift(), unshift(), splice(), concat(), and slice() method.
