@@ -36,3 +36,6 @@ and methods to constructor functions.
  # JavaScript Array Iteration
  How to run JavaScript array iterations. Array.forEach(), Array.map(), Array.filter(), and Array.indexOf().
  Note: There are more array iteration methods that were not looked at.
+ 
+ # JavaScript Conditional Statements
+ How to use JavaScript conditional statements. if, else, and elseif. 
